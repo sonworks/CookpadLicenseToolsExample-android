@@ -1,0 +1,1 @@
+# CookpadLicenseToolsExample-android
